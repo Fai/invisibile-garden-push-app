@@ -1,9 +1,14 @@
 {
+  "type": "module",
   "dependencies": {
     "@pushprotocol/restapi": "^1.7.28",
+    "dotenv": "^16.4.5",
     "ethers": "^5.7.2"
   },
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
