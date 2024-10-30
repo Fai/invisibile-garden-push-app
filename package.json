@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@pushprotocol/restapi": "^1.7.28",
+    "ethers": "^5.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
